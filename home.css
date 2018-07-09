@@ -1,0 +1,52 @@
+
+.nav {
+    height: 100px;
+    background-color:yellowgreen;
+}
+.nav ul li{
+    float: left;
+    color:white;
+    display: block;
+    margin-left: 20px;
+    border: 1px solid;
+   
+}
+h1{
+    text-align: center;
+}
+table,th,td{
+    border: 5px solid orange;
+    text-align: center;
+}
+table{
+    border: 1px solid;
+    text-align: center;
+    margin-block-end: auto;
+    width: 50%;
+    justify-content: center;
+    background-color: aqua;
+}
+.div1 p{
+    text-align: center;
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+}
+.div1{
+    margin:auto;
+    width: 50%;
+    left:0;
+    right: 0;
+    top:0;
+}
+footer{
+    border: 1px groove #faaaaaa;
+    background: yellowgreen;
+    color: white;
+    width:100%;
+    position:fixed;
+    text-align: center;
+    line-height: 50px;
+    padding : 0;
+    vertical-align: middle;
+}
